@@ -6,7 +6,7 @@ color: rgb(5, 80, 80);
 border: 5px solid black; 
 padding: 10px; margin: 10px;}
 
-#salao { height: 10%; width: 10%; } 
+#salao { height: 30%; width: 30%; } 
 
 p { text-align: justify;
 font-size: 16px; 
@@ -16,9 +16,10 @@ h2 {text-align: center;
 	font-size: 30px;
 color: white;}
 
-ol {display: inline-block;
+ul {display: inline-block;
     padding: 100px;
     vertical-align: top;
 }
-#flor {width: 1%;
+
+#flor {width: 10%;
 display: inline-block;}
