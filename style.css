@@ -4,7 +4,7 @@ font-size: 20px;
 color: rgb(5, 80, 80);
 border: 5px solid black; 
 padding: 10px; margin: 10px;}
-#salao { height: 100%; width: 100%; } 
+#salao { height: 30%; width: 30%; } 
 p { text-align: justify;
 font-size: 16px; 
 }
