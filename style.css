@@ -1,10 +1,10 @@
-body { background-color: rgb(130, 10, 30);  }
+body { background-color: rgb(99, 158, 177);  }
 h1 { text-align: center;
 font-size: 20px;
-color: rgb(13, 255, 255);
+color: rgb(5, 80, 80);
 border: 5px solid black; 
-padding: 10px; ,margin: 10px;}
-#salao { height: 100px;width: 100px; } 
+padding: 10px; margin: 10px;}
+#salao { height: 100%; width: 100%; } 
 p { text-align: justify;
 font-size: 16px; 
 }
