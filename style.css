@@ -4,7 +4,7 @@ font-size: 20px;
 color: rgb(13, 255, 255);
 border: 5px solid black; 
 padding: 10px; ,margin: 10px;}
-#logo { height: 100px;width: 100px; } 
+#salao { height: 100px;width: 100px; } 
 p { text-align: justify;
 font-size: 16px; 
 }
@@ -15,4 +15,4 @@ ul {display: inline;
     padding: 50px;
     vertical-align: top;
 }
-#make {width: 30%;}
+#flor {width: 30%;}
