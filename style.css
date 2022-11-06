@@ -1,16 +1,16 @@
 body { background-color: rgb(99, 158, 177);  }
-.texto-principal {background-color: rgb(255, 0, 195);}
+.texto-principal {background-color: rgb(187, 242, 247);}
 
 h1 { text-align: center;
-font-size: 20px;
-color: rgb(5, 80, 80);
-border: 5px solid black; 
-padding: 10px; margin: 10px;}
+font-size: 30px;
+color: rgb(0, 8, 8);
+border: 5px solid rgb(108, 7, 248); 
+padding: 20px; margin: 20px;}
 
 #salao { height: 100%; width: 100%; } 
 
 p { text-align: justify;
-font-size: 16px; 
+font-size: 20px; 
 }
 
 h2 {text-align: center; 
@@ -20,7 +20,10 @@ color: white;}
 ul {display: inline-block;
     padding: 10px;
     vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    padding: 50px;
 }
 
-#flor {width: 100%;
-display: inline-block;}
+#flor {width: 50%;
+}
