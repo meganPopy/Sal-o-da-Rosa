@@ -17,7 +17,7 @@ h2 {text-align: center;
 	font-size: 30px;
 color: white;}
 
-ul {display: inline-block;
+ul {
     padding: 10px;
     vertical-align: top;
     width: 20%;
