@@ -23,8 +23,9 @@ ul {display: inline-block;
     width: 20%;
     margin-right: 15%;
     padding: 50px;
+    font-size: 30px;
 }
 
 #flor {width: 50%;
 }
-#logo {width: 10%;}
+#logo {width: 20%;}
