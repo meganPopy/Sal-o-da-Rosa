@@ -1,4 +1,6 @@
+
 body { background-color: rgb(99, 158, 177);  }
+
 .texto-principal {background-color: rgb(187, 242, 247);}
 
 h1 { text-align: center;
@@ -27,5 +29,8 @@ color: white;}
 
 #flor {width: 50%;
 }
-#logo {width: 10%;}
+header{background-color: black;
+color: white;
+}
+#logo {width: 15%;}
 
