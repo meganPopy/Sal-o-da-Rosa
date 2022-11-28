@@ -36,6 +36,7 @@ font-size: x-large;
 #logo {width: 15%;}
 
 nav li {display: inline;
+    margin-right: 15px;
     
 }
 
