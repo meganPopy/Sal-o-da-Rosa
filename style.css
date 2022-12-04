@@ -34,6 +34,17 @@ color: rgb(14, 13, 13);
 }
 #logo {width: 15%;}
 
+nav{ position: absolute;
+top: 0px;
+right: 0px;}
+
+nav li{display: inline;
+margin-right: 15px;}
+
+nav a{text-transform: uppercase;
+text-decoration: none;
+font-weight: bold;}
+
 .rodape { color:aliceblue;
     text-align: center;
     background-color: black;
