@@ -35,8 +35,8 @@ color: rgb(14, 13, 13);
 #logo {width: 15%;}
 
 nav{ position: absolute;
-top: 0px;
-right: 0px;}
+top: 100px;
+right: 50px;}
 
 nav li{display: inline;
 margin-right: 15px;}
