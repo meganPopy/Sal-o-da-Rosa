@@ -34,4 +34,8 @@ color: rgb(14, 13, 13);
 }
 #logo {width: 15%;}
 
-
+.rodape { color:aliceblue;
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
